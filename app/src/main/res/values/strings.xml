@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">informations</string>
+    <string name="name_one">jamshaid</string>
+    <string name="name_two">adeel</string>
+    <string name="name_three">junaid</string>
+    <string name="name_four">ganjeer</string>
+    <string name="name_five">shahraiz</string>
+    <string name="name_six">faisal</string>
+    <string name="name_seven">shahid</string>
+    <string name="name_eight">bilal</string>
+    <string name="name_nine">nauman</string>
+    <string name="name_ten">ijaz</string>
+    <string name="adr_one">lahore</string>
+    <string name="adr_two">gujrat</string>
+    <string name="adr_three">pinddi</string>
+    <string name="adr_four">narowal</string>
+    <string name="adr_five">gujr pur</string>
+    <string name="adr_six">Dikhan</string>
+    <string name="adr_seven">skg</string>
+    <string name="adr_eight">xcvd</string>
+    <string name="adr_nine">mjuyt</string>
+    <string name="adr_ten">jyterv</string>
+    <string name="phn_id">03066659784</string>
+
+
+</resources>
